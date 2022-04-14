@@ -1,0 +1,11 @@
+Model Information:
+* title:	EyeBall
+* source:	https://sketchfab.com/3d-models/eyeball-730c88e5c0a440818fefd9f7e9e1c82e
+* author:	CrisLArt (https://sketchfab.com/crispichu25)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "EyeBall" (https://sketchfab.com/3d-models/eyeball-730c88e5c0a440818fefd9f7e9e1c82e) by CrisLArt (https://sketchfab.com/crispichu25) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
